@@ -7,7 +7,9 @@ Sushant Samir Khedekar - UCID 30266049
 Venkata Prasanna Kumar Gurugubelli - UCID 30243277
 Prince Ifem - UCID 30258710
 
-Our lab assignment focuses on helping Deep-AutoLab develop a Python code base to manage student GPAs. The system will replace manual calculations and paper records, making the process of tracking grades more efficient and reliable.
+Our lab assignment, "Using Git and Python for Collaborative Coding in Google Colab," focuses on helping Deep-AutoLab develop a Python code base to manage student GPAs. The system will replace manual calculations and paper records, making the process of tracking grades more efficient and reliable.
+
+
 
 
 
